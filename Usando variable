@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 # En la primera linea establezco con que chell se debe ejecutar
 
 # Se define una variable
